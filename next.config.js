@@ -10,6 +10,7 @@ module.exports = {
         protocol: 'https',
         hostname: '**.githubusercontent.com'
       }
-    ]
+    ],
+    domains: ['lh3.googleusercontent.com']
   }
 }
